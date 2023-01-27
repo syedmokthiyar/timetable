@@ -158,5 +158,7 @@ Execute the program
 
 ```
 
-# OUPUT
+# OUTPUT
 ![eig](ss.png)
+#RESULT
+The program display the timetable processing successfully 
